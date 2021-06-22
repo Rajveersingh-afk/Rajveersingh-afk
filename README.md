@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development; both back-end and front-end. 
 - 🌱 I’m currently learning more about back-end developmet with php and python.
 - 💞️ I’m looking to collaborate on more web dev projects to get more exposure to the community and also get hands-on experience about web development.
+- 
 - 📫 Reach me at -
 - (EMAIL) rajveersinghdhanjal@gmail.com or rs161199@gmail.com
 -   
