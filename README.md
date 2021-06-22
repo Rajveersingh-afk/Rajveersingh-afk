@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on more web dev projects to get more exposure to the ccommunity and also get hands-on experience about web development.
 - 📫 Reach me at -
 - (EMAIL) rajveersinghdhanjal@gmail.com or rs161199@gmail.com
+-   
 - (LinkedIn) https://www.linkedin.com/in/rajvir-singh-9359b41b3/
-- View my Portfolio and front-end skills here https://codepen.io/rajveersingh-afk/details/MWpdaQO :D
+- 
+- My interactive resume here- https://rajveersingh-afk.github.io/rajveer_singh/
+- 
+- My CodePen here https://codepen.io/rajveersingh-afk/details/MWpdaQO 
 
