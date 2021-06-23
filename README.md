@@ -1,6 +1,7 @@
-- Hi, I’m @Rajveersingh-afk (not really away from keyboard). I'm a BCIS student at The University of the Fraser Valley. I am focusing on building as many quality projects as I can so that i get good experience and finesse the technical skills that are required and respected in the community. 
-- 👀 I’m interested in web development; both back-end and front-end. 
-- 🌱 I’m currently learning more about back-end developmet with php and python.
+- Hi, I’m @Rajveersingh-afk (not really away from keyboard). I'm a BCIS student at The University of the Fraser Valley. I am focusing on building as many quality projects as I can   so that i get good experience and finesse the technical skills that are required and respected in the community. 
+- 
+- I’m interested in web development; both back-end and front-end currently. I am learning more about data analatics and algorithms along with scopes of machine learning on the       side.
+- 
 - 💞️ I’m looking to collaborate on more web dev projects to get more exposure to the community and also get hands-on experience about web development.
 - 
 - 📫 Reach me at -
