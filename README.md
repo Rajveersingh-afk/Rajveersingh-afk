@@ -2,7 +2,7 @@
 - 
 - I’m interested in web development; both back-end and front-end currently. I am learning more about data analatics and algorithms along with scopes of machine learning on the       side.
 - 
-- 💞️ I’m looking to collaborate on more web dev projects to get more exposure to the community and also get hands-on experience about web development.
+- I’m looking to collaborate on more web dev projects to get more exposure to the community and also get hands-on experience about web development.
 - 
 - 📫 Reach me at -
 - (EMAIL) rajveersinghdhanjal@gmail.com or rs161199@gmail.com
