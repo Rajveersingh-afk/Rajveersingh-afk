@@ -1,12 +1,11 @@
-- Hi, I’m @Rajveersingh-afk (not really away from keyboard). I'm doing Bachelors in Computer Information Systems at The University of Fraser Valley. I develop websites and mobile applications.
+- Hi, I’m @Rajveersingh-afk (not really away from keyboard). I graduated in BCIS from The University of Fraser Valley. I developed websites and mobile applications but lately I have transitioned into my Systems Administrator role. My next few destinations would be into more niche networking domains- hoping to step into a Network Engineer role soon. 
 
 - I’m interested in full stack development and I'm learning about data analatics and algorithms as well, along with other aspects of data science.
 
-- My current focus is getting more involved in the community and help in open-source projects and maybe team up for a collaborative project.
 
 - 📫 Reach me at -
-- (EMAIL) rajveersinghdhanjal@gmail.com or rajvir.singh@student.ufv.ca
- 
+- (EMAIL) rajveersinghdhanjal@gmail.com or rajvir.singh@theeccogroup.com
+  
 - (LinkedIn) https://www.linkedin.com/in/rajvir-singh-9359b41b3/
  
 - My CodePen here https://codepen.io/rajveersingh-afk/details/MWpdaQO 
